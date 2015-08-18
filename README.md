@@ -1,0 +1,2 @@
+# FunProj
+Testing GitHub wiki
